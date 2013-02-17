@@ -1,0 +1,22 @@
+C:/Users/mayank/Desktop/Temp/BTP/Sim/level1/randomtest1.v {1 {vlog -work work C:/Users/mayank/Desktop/Temp/BTP/Sim/level1/randomtest1.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module randomtest1
+
+Top level modules:
+	randomtest1
+
+} {} {}} C:/Users/mayank/Desktop/Temp/BTP/Sim/level1/level1_tb.v {1 {vlog -work work C:/Users/mayank/Desktop/Temp/BTP/Sim/level1/level1_tb.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module level1_tb
+
+Top level modules:
+	level1_tb
+
+} {} {}} C:/Users/mayank/Desktop/Temp/BTP/Sim/level1/randomtest1_tb.v {1 {vlog -work work C:/Users/mayank/Desktop/Temp/BTP/Sim/level1/randomtest1_tb.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module randomtest1_tb
+
+Top level modules:
+	randomtest1_tb
+
+} {} {}}
