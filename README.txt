@@ -2,6 +2,6 @@ This folder contains the Verilog project files of my B.Tech final year project o
 
 Folder "level1" represents ModelSim simulation of single-node model.
 
-For details, contact
+For information related to this project, photos, videos, thesis, etc., contact
 Mayank Prasad
 max@maxEmbedded.com

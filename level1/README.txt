@@ -9,10 +9,14 @@ Version and Date		Description
 1.4	06-03-2013		Successful Altera Implementation of v1.3
 1.5	18-03-2013		Successful Functional Verification of v1.4
 1.6	04-04-2013		Clock Division & Hardware Test - Failed
-1.7				(In Progress...)
+1.6.1	11-04-2013		Minor Changes in v1.6
+1.7	12-04-2013		Removed Task, Repeated Code, CASE III Erro
+				(Final Review Code)
+1.8				Replacing "t" logic with Counter logic
+				(In progress...)
 
 For details, contact
 Mayank Prasad
 max@maxEmbedded.com
 
-Last Updated: 07-04-2013
+Last Updated: 22-05-2013
